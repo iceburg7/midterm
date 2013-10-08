@@ -1,3 +1,96 @@
-html {
-	background-color:green;
-}
+body {}
+
+h3 {}
+
+a {}
+
+p {}
+
+abbr {}
+
+
+
+
+#css-zen-garden {}
+
+.page-wrapper {}
+	
+		.intro {}
+	
+			.intro header {}
+	
+				h1 {}
+		
+				h2 {}
+			
+			.summary {}
+		
+			.preamble {}
+		
+		.supporting {}
+	
+			.explanation {
+				background-color:orange;
+				}
+		
+			.participation {}
+		
+			.benefits{}
+		
+			.requirements {}
+		
+			footer {}
+		
+		.sidebar {}
+	
+			.wrapper {}
+		
+				.design-selection {}
+			
+					.select {}
+				
+					.design-selection ul {}
+					
+						.design-name {}
+					
+						.designer-name {}
+				
+				.design-archives {}
+			
+					.archives {}
+				
+					.design-archives ul {}
+				
+						.next {}
+				
+							.indicator{}
+					
+						.viewall {}
+				
+				.zen-resources {}
+			
+					.resources {}
+				
+					.zen-resources ul {}
+				
+						.view-css{}
+					
+						.css-resources {}
+					
+						.zen-faq {}
+					
+						.zen-submit {}
+					
+						.zen-translations {}
+					
+		.extra1 {}
+	
+		.extra2 {}
+	
+		.extra3 {}
+	
+		.extra4 {}
+	
+		.extra5 {}
+	
+		.extra6 {}
