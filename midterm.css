@@ -15,25 +15,49 @@ abbr {}
 
 #css-zen-garden {}
 
-.page-wrapper {}
+	.page-wrapper {}
 	
-		.intro {}
+		.intro {
+			width:90%;
+			margin-left:5%;
+			margin-right:5%;
+			margin-top:30px;
+			background-color:gold;
+			text-align:center;
+		}
 	
 			.intro header {}
 	
-				h1 {}
+				h1 {display:none;}
 		
-				h2 {}
+				h2 {
+					font-size: 3em;
+				}
 			
-			.summary {}
+			.summary {
+				padding-top:40px;
+				padding-bottom:100px;
+			}
 		
-			.preamble {}
+			.preamble {
+				padding-bottom:30px;
+			}
+			
+				.preamble h3 {
+					font-size:1.5em;
+					padding-bottom: 140px;
+				}
 		
-		.supporting {}
+		.supporting {
+			width: 65%;
+			margin-left: 5%;
+			float:left;
+			background-color: #8ff082;
+		}
 	
 			.explanation {
-				background-color:blue;
-				}
+				
+			}
 		
 			.participation {}
 		
@@ -43,7 +67,12 @@ abbr {}
 		
 			footer {}
 		
-		.sidebar {}
+		.sidebar {
+			width:25%;
+			margin-left:70%;
+			background-color: #f3b1ff;
+				
+		}
 	
 			.wrapper {}
 		
