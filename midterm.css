@@ -338,7 +338,7 @@ abbr {}
 }		
 		
 		
-@media all and (max-width:1200px) and (min-width:1001px) {
+@media all and (max-width:1200px) and (min-width:701px) {
 
 
 
@@ -595,7 +595,21 @@ abbr {}
 }
 
 
-@media all and (max-width:1000px) {
+@media all and (max-width:1000px) and (min-width:701px) {
+
+		.supporting {
+			width: 55%;
+			margin-left: 5%;
+			}
+
+		.sidebar {
+			width:35%;
+			margin-left:60%;
+		}
+
+}
+
+@media all and (max-width:700px) {
 
 		.supporting {
 			width: 90%;
